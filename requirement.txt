@@ -1,0 +1,5 @@
+torch>=1.10.0
+numpy>=1.17.2
+scikit_learn>=0.23.2
+pickle
+tqdm>=4.48.2
