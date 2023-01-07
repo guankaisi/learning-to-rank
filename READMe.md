@@ -22,13 +22,21 @@
 
 ### 实现流程
 
+
+
+**训练阶段**：
+
 数据处理，特征提取，评分函数构建
 
+![3](D:\大三上\信息检索导论\作业\期末大作业\L2R_package\3.png)
 
 
-![image-20230106103447962](C:\Users\kai'si\AppData\Roaming\Typora\typora-user-images\image-20230106103447962.png)
 
+**测试阶段：**
 
+![4](D:\大三上\信息检索导论\作业\期末大作业\L2R_package\4.png)
+
+支持数据集：传统排序学习数据集，三种类型的方法，支持多种指标计算
 
 ![image-20230106103509158](C:\Users\kai'si\AppData\Roaming\Typora\typora-user-images\image-20230106103509158.png)
 
@@ -111,7 +119,7 @@ tree.plot_tree(model.trees[0])
 plt.show()
 ```
 
-![image-20230106113745805](C:\Users\kai'si\AppData\Roaming\Typora\typora-user-images\image-20230106113745805.png)
+![1](D:\大三上\信息检索导论\作业\期末大作业\L2R_package\1.png)
 
 ### 达到效果
 
